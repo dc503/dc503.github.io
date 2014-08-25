@@ -1,0 +1,13 @@
+body {
+	background-color: #000000;
+	text-align: center;
+}
+
+h1, h2, h3, h4, h5, p {
+	font-family: monospace;
+	color: #008000;
+}
+
+div.center {
+	padding-top: 10em;
+}
